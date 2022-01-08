@@ -1,0 +1,42 @@
+
+.background
+{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    z-index: -100;
+}
+.identity
+{
+    border: black solid 2px;
+}
+.longheight{
+    height: 500px;
+}
+
+.Curve
+{
+    border-radius: 25px ;
+}
+.opening-text
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5rem;
+}
+.carousel-img
+{    
+    object-fit:cover ;
+    object-position: top 10% left 30%;
+    height: 90vh;
+}
+.bg-purple
+{
+    background: rgb(167, 76, 241);
+}
+.heading::first-letter
+{
+    font-size: 4rem;
+}
+.vh-75{
+    height: 75vh;
+}
